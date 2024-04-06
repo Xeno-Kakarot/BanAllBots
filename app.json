@@ -22,42 +22,42 @@
       "TOKEN": {
          "description": "Your bot token. Can be obtained from https://telegram.dog/BotFather/",
          "required": true,
-         "value": "YOUR BOT_TOKEN"
+         "value": "6713838489:AAHGgY3MK5HfhvhAW5jx8fKz6ZxH7zY4n9M"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "24683098"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "e4055cd239464e50e69bd73057c05dd3"
       },     
       "BOT_ID": {
          "description": "your bot id",
          "required": true,
-         "value": ""
+         "value": "6713838489"
       },  
       "BOT_USERNAME": {
          "description": "your bot username without @",
          "required": true,
-         "value": ""
+         "value": "missrose_roxbot"
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
          "required": true,
-         "value": ""
+         "value": "Yae Miko"
       },      
       "SUDO": {
          "description": "list of Auth user Id who can command the bot ",
          "required": true,
-         "value": ""
+         "value": "6346273488"
       }, 
       "START_IMG": {
          "description": "give the telegraph link of your network logo.",
          "required": true,
-         "value": ""
+         "value": "https://graph.org/file/6eb8317e932c506d4ffdb.jpg"
       },     
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
