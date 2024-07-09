@@ -8,7 +8,7 @@
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/dilshadhasnain13/BanAllBot",
+   "repository": "https://github.com/hasnainkk-07/BanAllBot",
    "stack": "heroku-22",
    "addons": [
       {
@@ -22,37 +22,37 @@
       "TOKEN": {
          "description": "Your bot token. Can be obtained from https://telegram.dog/BotFather/",
          "required": true,
-         "value": "6713838489:AAHGgY3MK5HfhvhAW5jx8fKz6ZxH7zY4n9M"
+         "value": ""
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "24683098"
+         "value": ""
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": "e4055cd239464e50e69bd73057c05dd3"
+         "value": ""
       },     
       "BOT_ID": {
          "description": "your bot id",
          "required": true,
-         "value": "6713838489"
+         "value": ""
       },  
       "BOT_USERNAME": {
          "description": "your bot username without @",
          "required": true,
-         "value": "missrose_roxbot"
+         "value": ""
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
          "required": true,
-         "value": "Yae Miko"
+         "value": ""
       },      
       "SUDO": {
          "description": "list of Auth user Id who can command the bot ",
          "required": true,
-         "value": "6346273488"
+         "value": ""
       }, 
       "START_IMG": {
          "description": "give the telegraph link of your network logo.",
