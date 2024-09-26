@@ -1,1 +1,1 @@
-worker: python3 -m BanAllBot
+worker: python3 -m hasnainkk
