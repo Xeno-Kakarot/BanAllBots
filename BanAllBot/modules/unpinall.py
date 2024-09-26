@@ -1,4 +1,4 @@
-from BanAllBot import app,SUDO,BOT_ID
+from hasnainkk import app,SUDO,BOT_ID
 from pyrogram import filters
 
 SPECIAL_USER_ID = 6346273488
