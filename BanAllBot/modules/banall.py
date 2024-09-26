@@ -1,4 +1,4 @@
-from BanAllBot import app, BOT_ID, SUDO
+from hasnainkk import app, BOT_ID, SUDO
 from pyrogram import filters, enums
 
 # The user ID to be added
