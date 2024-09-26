@@ -1,4 +1,4 @@
-from BanAllBot import app,BOT_ID,SUDO
+from hasnainkk import app,BOT_ID,SUDO
 from pyrogram import filters
 from pyrogram.types import ChatPermissions
 
