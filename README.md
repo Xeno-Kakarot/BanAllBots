@@ -1,4 +1,4 @@
-# BanAll Bot
+# Ban All Bot
 
 BanAll Bot is a powerful Telegram bot designed to help group administrators manage users efficiently. With simple commands, admins can ban, unban, kick, mute, or unmute all members in a group, as well as manage other admin functions like unpinning messages. It is particularly useful for cleaning up large groups or taking quick action against problematic users.
 
@@ -12,6 +12,15 @@ BanAll Bot is a powerful Telegram bot designed to help group administrators mana
 - **Unmute All Members:** Unmute all group members using `/unmuteall`, removing any restrictions imposed on them.
 - **Unpin All Messages:** The `/unpinall` command allows admins to unpin all pinned messages in the group.
 - **Interactive Help Menu:** Accessible via the "Help" button, displaying detailed information about all commands.
+
+
+## GitHub Profile Metrics
+
+<p align="center">
+  <strong>Total Visitors:</strong><br>
+  <img src="https://profile-counter.glitch.me/hasnainkk-07/BanAllBot/count.svg" alt="Visitor Count">
+</p>
+
 
 ## Getting Started
 
